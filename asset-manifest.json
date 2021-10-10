@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/iFrameViewer/static/css/main.3c02371a.chunk.css",
+    "main.js": "/iFrameViewer/static/js/main.d1199406.chunk.js",
+    "main.js.map": "/iFrameViewer/static/js/main.d1199406.chunk.js.map",
+    "runtime-main.js": "/iFrameViewer/static/js/runtime-main.250c24e1.js",
+    "runtime-main.js.map": "/iFrameViewer/static/js/runtime-main.250c24e1.js.map",
+    "static/js/2.95ac398c.chunk.js": "/iFrameViewer/static/js/2.95ac398c.chunk.js",
+    "static/js/2.95ac398c.chunk.js.map": "/iFrameViewer/static/js/2.95ac398c.chunk.js.map",
+    "static/js/3.316fc0c8.chunk.js": "/iFrameViewer/static/js/3.316fc0c8.chunk.js",
+    "static/js/3.316fc0c8.chunk.js.map": "/iFrameViewer/static/js/3.316fc0c8.chunk.js.map",
+    "index.html": "/iFrameViewer/index.html",
+    "static/css/main.3c02371a.chunk.css.map": "/iFrameViewer/static/css/main.3c02371a.chunk.css.map",
+    "static/js/2.95ac398c.chunk.js.LICENSE.txt": "/iFrameViewer/static/js/2.95ac398c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.250c24e1.js",
+    "static/js/2.95ac398c.chunk.js",
+    "static/css/main.3c02371a.chunk.css",
+    "static/js/main.d1199406.chunk.js"
+  ]
+}
